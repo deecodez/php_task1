@@ -1,0 +1,1 @@
+Dear [website owner] <br/> you have a new contact message <br/><strong> The contact details below: </strong>First Name: Ejike<br/>Last Name: Christain<br/>Email: EJikeC@gmail.com<br/>Department: Marketing<br/>Gender: on<br/>Message: We need concept<br/>
